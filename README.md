@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something Web Components something
-- 🌱 I’m currently learning CSS, Eleventy
-- 👯 I’m looking to collaborate on <Kulfi> 
+- 🔭 I’m currently working on a game for the web
+- 🌱 I’m currently learning Three.js, R3F, Blender, Asset Forge
+- 👯 I’m looking to collaborate on Building Games
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Failed video game prorgammer
+- ⚡ Fun fact: 3 continents, 6 cities and counting
